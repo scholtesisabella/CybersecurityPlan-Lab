@@ -22,45 +22,45 @@ The cybersecurity plan project aimed to develop a comprehensive security strateg
 
 Table of Contents
 
-[XYZ Insurance Cybersecurity Plan. 3](https://www.notion.so/CYBERSECURITY-PLAN-CREATION-24d450a6b25d80f19a51e66c5a26e369?pvs=21)
+[XYZ Insurance Cybersecurity Plan. 3]
 
-[Importance of Cybersecurity. 3](https://www.notion.so/CYBERSECURITY-PLAN-CREATION-24d450a6b25d80f19a51e66c5a26e369?pvs=21)
+[Importance of Cybersecurity. 3]
 
-[Elements of Cybersecurity. 3](https://www.notion.so/CYBERSECURITY-PLAN-CREATION-24d450a6b25d80f19a51e66c5a26e369?pvs=21)
+[Elements of Cybersecurity. 3]
 
-[Impact of Compliance and Governance. 5](https://www.notion.so/CYBERSECURITY-PLAN-CREATION-24d450a6b25d80f19a51e66c5a26e369?pvs=21)
+[Impact of Compliance and Governance. 5]
 
-[Applicable Compliances. 6](https://www.notion.so/CYBERSECURITY-PLAN-CREATION-24d450a6b25d80f19a51e66c5a26e369?pvs=21)
+[Applicable Compliances. 6]
 
-[Incorporating Compliance. 6](https://www.notion.so/CYBERSECURITY-PLAN-CREATION-24d450a6b25d80f19a51e66c5a26e369?pvs=21)
+[Incorporating Compliance. 6]
 
-[NIST Implementation Strategy. 7](https://www.notion.so/CYBERSECURITY-PLAN-CREATION-24d450a6b25d80f19a51e66c5a26e369?pvs=21)
+[NIST Implementation Strategy. 7]
 
-[NIST Core Functions. 8](https://www.notion.so/CYBERSECURITY-PLAN-CREATION-24d450a6b25d80f19a51e66c5a26e369?pvs=21)
+[NIST Core Functions. 8]
 
-[XYZ Insurance’s Profile. 9](https://www.notion.so/CYBERSECURITY-PLAN-CREATION-24d450a6b25d80f19a51e66c5a26e369?pvs=21)
+[XYZ Insurance’s Profile. 9]
 
-[Risk Management 10](https://www.notion.so/CYBERSECURITY-PLAN-CREATION-24d450a6b25d80f19a51e66c5a26e369?pvs=21)
+[Risk Management 10]
 
-[Determining Risk. 10](https://www.notion.so/CYBERSECURITY-PLAN-CREATION-24d450a6b25d80f19a51e66c5a26e369?pvs=21)
+[Determining Risk. 10]
 
-[Risk Priorities. 10](https://www.notion.so/CYBERSECURITY-PLAN-CREATION-24d450a6b25d80f19a51e66c5a26e369?pvs=21)
+[Risk Priorities. 10]
 
-[Qualitative vs. Quantitative Risk Assessments. 11](https://www.notion.so/CYBERSECURITY-PLAN-CREATION-24d450a6b25d80f19a51e66c5a26e369?pvs=21)
+[Qualitative vs. Quantitative Risk Assessments. 11]
 
-[Assessment Strategy. 12](https://www.notion.so/CYBERSECURITY-PLAN-CREATION-24d450a6b25d80f19a51e66c5a26e369?pvs=21)
+[Assessment Strategy. 12]
 
-[ROI vs ROSI 12](https://www.notion.so/CYBERSECURITY-PLAN-CREATION-24d450a6b25d80f19a51e66c5a26e369?pvs=21)
+[ROI vs ROSI 12]
 
-[Risk Matrix. 13](https://www.notion.so/CYBERSECURITY-PLAN-CREATION-24d450a6b25d80f19a51e66c5a26e369?pvs=21)
+[Risk Matrix. 13]
 
-[Incident Management Plan. 14](https://www.notion.so/CYBERSECURITY-PLAN-CREATION-24d450a6b25d80f19a51e66c5a26e369?pvs=21)
+[Incident Management Plan. 14]
 
-[Post-Incident Lessons Learned. 16](https://www.notion.so/CYBERSECURITY-PLAN-CREATION-24d450a6b25d80f19a51e66c5a26e369?pvs=21)
+[Post-Incident Lessons Learned. 16]
 
-[Conclusion. 17](https://www.notion.so/CYBERSECURITY-PLAN-CREATION-24d450a6b25d80f19a51e66c5a26e369?pvs=21)
+[Conclusion. 17]
 
-[References. 18](https://www.notion.so/CYBERSECURITY-PLAN-CREATION-24d450a6b25d80f19a51e66c5a26e369?pvs=21)
+[References. 18]
 
 # XYZ Insurance Cybersecurity Plan
 
